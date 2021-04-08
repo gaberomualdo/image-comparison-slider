@@ -1,10 +1,13 @@
 # Image Comparison Slider
 
+![GitHub Repo stars](https://img.shields.io/github/stars/xtrp/ImageComparisonSlider?style=social)
+![npm](https://img.shields.io/npm/dw/image-comparison-slider-react)
+
 Image comparison slider component for React.
 
-![Demo Image](./demo.png)
+[![Demo Image](./demo.png)](https://xtrp.github.io/ImageComparisonSlider/)
 
-[View This Demo &nbsp;&rarr;]()
+[View This Demo &nbsp;&rarr;](https://xtrp.github.io/ImageComparisonSlider/)
 
 ## Download
 
