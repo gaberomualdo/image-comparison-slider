@@ -4,18 +4,20 @@ Image comparison slider component for React.
 
 ![Demo Image](./demo.png)
 
+[View This Demo &nbsp;&rarr;]()
+
 ## Download
 
 NPM:
 
 ```
-npm install imagecomparisonslider
+npm install image-comparison-slider-react
 ```
 
 Yarn:
 
 ```
-yarn add imagecomparisonslider
+yarn add image-comparison-slider-react
 ```
 
 ## Usage
